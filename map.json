@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"meet.jit.si\/fabnum-meet"
+                 "value":"fabnum-meet"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"fabrique.social.gouv.fr\/"
+                 "value":"https:\/\/fabrique.social.gouv.fr\/"
                 }],
          "type":"tilelayer",
          "visible":false,
