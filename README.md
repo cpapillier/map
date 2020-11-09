@@ -1,6 +1,6 @@
-# Carte virtuelle de la fabrique numérique
+# Carte virtuelle du département digital
 
-Carte virtuelle [workadventu.re](http://workadventu.re/) pour retrouver les collègues en audio/video : https://play.workadventu.re/_/global/socialgouv.github.io/map/map.json
+Carte virtuelle [workadventu.re](http://workadventu.re/) pour retrouver les collègues en audio/video : https://play.workadventu.re/_/global/cpapillier.github.io/map/map.json
 
 ## Editer la carte
 
